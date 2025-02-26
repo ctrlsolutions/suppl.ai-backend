@@ -1,4 +1,5 @@
 from django.db import models
+from produce.models import Produce
 
 
 class Batch(models.Model):
@@ -10,8 +11,8 @@ class Batch(models.Model):
 
 
 class BatchProduce(models.Model):
-    batch = models.ForeignKey("batch_app.Batch", on_delete=models.CASCADE, related_name="batch_produce")
-    produce = models.ForeignKey("produce_app.Produce", on_delete=models.CASCADE, related_name="batch_entries")
+    batch = models.ForeignKey("batches.Batch", on_delete=models.CASCADE, related_name="batch_produce")
+    produce = models.ForeignKey("produce.Produce", on_delete=models.CASCADE, related_name="batch_entries")
     health_on_arrival = models.CharField(max_length=50, choices=[
         ("very good", "Very Good"),
         ("good", "Good"),
@@ -38,6 +39,7 @@ class HealthCheck(models.Model):
     health_status = models.CharField(max_length=50, choices=[
         ("very good", "Very Good"),
         ("good", "Good"),
+        ("average", "Average"),
         ("bad", "Bad"),
         ("unknown", "Unknown")
     ])
