@@ -1,7 +1,9 @@
 from django.contrib.auth.models import AbstractUser
+from django.db import models
 
 class CustomUser(AbstractUser):
     email = None
+    branch = models.CharField(max_length=255)
     
     def get_email_field_name(self):
         return None

@@ -4,10 +4,11 @@ from produce.models import Produce
 
 class Batch(models.Model):
     batch_id = models.AutoField(primary_key=True)
+    batch_manager = models.ForeignKey("accounts.ManagerUser", on_delete=models.CASCADE, related_name="manager_assigned_to_batch")
     added_to_inventory_on = models.DateField()
 
     def __str__(self):
-        return f"Batch {self.batch_id}"
+        return f"Batch {self.batch_id}, managed by {self.manager_assigned}"
 
 
 class BatchProduce(models.Model):
