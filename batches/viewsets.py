@@ -8,6 +8,7 @@ from .models import BatchProduce
 from .serializers import BatchSerializer
 from django.http import JsonResponse
 from django.db.models import F
+from django.db.models import Sum
 
 
 class DashboardViewSet(viewsets.ModelViewSet):
@@ -24,10 +25,17 @@ class DashboardViewSet(viewsets.ModelViewSet):
         return Response({"low": lowstockitems})
     
     @action(detail=False, methods=['get'], permission_classes=[AllowAny])
-    def wasted_stock(self, request): # NEEDS WORK
-        lowstockitems = BatchProduce.objects.filter(left_in_stock__lte=F("initial_stock")*0.25).count()
-        print(lowstockitems)
-        return Response({"low": lowstockitems})
+    def wasted_stock(self, request):
+        totalwasteditems = BatchProduce.objects.filter(is_spoiled=True).aggregate(Sum("left_in_stock"))["left_in_stock__sum"] or 0
+        print(totalwasteditems)
+        print("oten")
+        return Response({"wasted": totalwasteditems})
+    
+    @action(detail=False, methods=['get'], permission_classes=[AllowAny])
+    def produce_count(self, request):
+        totalproduce = BatchProduce.objects.count()
+        print(totalproduce)
+        return Response({"total": totalproduce})
     
 
 class BatchViewSet(viewsets.ModelViewSet):
