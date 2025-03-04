@@ -1,6 +1,5 @@
 from django.db import models
-from produce.models import Produce
-
+from django.db.models import Max
 
 class Batch(models.Model):
     batch_id = models.AutoField(primary_key=True)
@@ -33,7 +32,14 @@ class BatchProduce(models.Model):
 
     def __str__(self):
         return f"{self.produce.name} in Batch {self.batch.id}"
-
+    
+    def used(initial_stock, left_in_stock):
+        return initial_stock - left_in_stock
+    
+    def is_most_recent_batch_of_a_produce(self):
+        latest_date = BatchProduce.objects.filter(produce=self.produce).aggregate(Max('batch__date_arrived'))['batch__date_arrived__max']
+        return self.batch.added_to_inventory_on == latest_date
+        
 
 class HealthCheck(models.Model):
     batch_produce = models.ForeignKey(BatchProduce, on_delete=models.CASCADE, related_name="health_checks")

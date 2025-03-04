@@ -1,0 +1,2082 @@
+[
+    {
+        "model": "batches.batch",
+        "pk": 1,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-01-01"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 2,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-01-08"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 3,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-01-15"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 4,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-01-22"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 5,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-01-29"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 6,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-02-05"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 7,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-02-12"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 8,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-02-19"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 9,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-02-26"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 10,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-03-04"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 11,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-03-11"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 12,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-03-18"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 13,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-03-25"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 14,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-04-01"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 15,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-04-08"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 16,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-04-15"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 17,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-04-22"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 18,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-04-29"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 19,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-05-06"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 20,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-05-13"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 21,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-05-20"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 22,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-05-27"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 23,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-06-03"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 24,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-06-10"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 25,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-06-17"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 26,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-06-24"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 27,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-07-01"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 28,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-07-08"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 29,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-07-15"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 30,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-07-22"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 31,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-07-29"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 32,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-08-05"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 33,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-08-12"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 34,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-08-19"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 35,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-08-26"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 36,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-09-02"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 37,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-09-09"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 38,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-09-16"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 39,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-09-23"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 40,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-09-30"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 41,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-10-07"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 42,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-10-14"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 43,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-10-21"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 44,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-10-28"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 45,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-11-04"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 46,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-11-11"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 47,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-11-18"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 48,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-11-25"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 49,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-12-02"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 50,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-12-09"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 51,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-12-16"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 52,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-12-23"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 53,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2024-12-30"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 54,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-01-06"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 55,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-01-13"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 56,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-01-20"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 57,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-01-27"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 58,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-02-03"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 59,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-02-10"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 60,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-02-17"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 61,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-02-24"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 62,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-03-03"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 63,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-03-10"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 64,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-03-17"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 65,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-03-24"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 66,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-03-31"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 67,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-04-07"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 68,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-04-14"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 69,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-04-21"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 70,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-04-28"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 71,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-05-05"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 72,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-05-12"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 73,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-05-19"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 74,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-05-26"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 75,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-06-02"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 76,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-06-09"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 77,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-06-16"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 78,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-06-23"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 79,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-06-30"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 80,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-07-07"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 81,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-07-14"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 82,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-07-21"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 83,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-07-28"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 84,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-08-04"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 85,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-08-11"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 86,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-08-18"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 87,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-08-25"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 88,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-09-01"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 89,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-09-08"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 90,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-09-15"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 91,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-09-22"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 92,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-09-29"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 93,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-10-06"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 94,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-10-13"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 95,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-10-20"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 96,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-10-27"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 97,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-11-03"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 98,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-11-10"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 99,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-11-17"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 100,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-11-24"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 101,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-12-01"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 102,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-12-08"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 103,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-12-15"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 104,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-12-22"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 105,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2025-12-29"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 106,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-01-05"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 107,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-01-12"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 108,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-01-19"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 109,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-01-26"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 110,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-02-02"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 111,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-02-09"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 112,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-02-16"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 113,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-02-23"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 114,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-03-02"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 115,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-03-09"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 116,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-03-16"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 117,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-03-23"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 118,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-03-30"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 119,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-04-06"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 120,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-04-13"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 121,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-04-20"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 122,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-04-27"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 123,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-05-04"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 124,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-05-11"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 125,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-05-18"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 126,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-05-25"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 127,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-06-01"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 128,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-06-08"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 129,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-06-15"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 130,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-06-22"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 131,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-06-29"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 132,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-07-06"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 133,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-07-13"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 134,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-07-20"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 135,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-07-27"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 136,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-08-03"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 137,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-08-10"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 138,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-08-17"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 139,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-08-24"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 140,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-08-31"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 141,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-09-07"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 142,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-09-14"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 143,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-09-21"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 144,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-09-28"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 145,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-10-05"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 146,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-10-12"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 147,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-10-19"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 148,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-10-26"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 149,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-11-02"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 150,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-11-09"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 151,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-11-16"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 152,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-11-23"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 153,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-11-30"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 154,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-12-07"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 155,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-12-14"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 156,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-12-21"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 157,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2026-12-28"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 158,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-01-04"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 159,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-01-11"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 160,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-01-18"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 161,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-01-25"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 162,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-02-01"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 163,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-02-08"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 164,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-02-15"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 165,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-02-22"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 166,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-03-01"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 167,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-03-08"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 168,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-03-15"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 169,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-03-22"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 170,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-03-29"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 171,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-04-05"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 172,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-04-12"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 173,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-04-19"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 174,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-04-26"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 175,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-05-03"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 176,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-05-10"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 177,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-05-17"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 178,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-05-24"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 179,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-05-31"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 180,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-06-07"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 181,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-06-14"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 182,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-06-21"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 183,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-06-28"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 184,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-07-05"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 185,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-07-12"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 186,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-07-19"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 187,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-07-26"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 188,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-08-02"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 189,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-08-09"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 190,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-08-16"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 191,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-08-23"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 192,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-08-30"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 193,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-09-06"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 194,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-09-13"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 195,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-09-20"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 196,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-09-27"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 197,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-10-04"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 198,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-10-11"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 199,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-10-18"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 200,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-10-25"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 201,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-11-01"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 202,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-11-08"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 203,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-11-15"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 204,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-11-22"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 205,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-11-29"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 206,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-12-06"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 207,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-12-13"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 208,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-12-20"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 209,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2027-12-27"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 210,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-01-03"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 211,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-01-10"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 212,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-01-17"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 213,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-01-24"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 214,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-01-31"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 215,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-02-07"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 216,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-02-14"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 217,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-02-21"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 218,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-02-28"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 219,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-03-06"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 220,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-03-13"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 221,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-03-20"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 222,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-03-27"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 223,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-04-03"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 224,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-04-10"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 225,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-04-17"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 226,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-04-24"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 227,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-05-01"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 228,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-05-08"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 229,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-05-15"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 230,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-05-22"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 231,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-05-29"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 232,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-06-05"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 233,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-06-12"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 234,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-06-19"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 235,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-06-26"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 236,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-07-03"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 237,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-07-10"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 238,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-07-17"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 239,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-07-24"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 240,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-07-31"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 241,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-08-07"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 242,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-08-14"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 243,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-08-21"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 244,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-08-28"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 245,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-09-04"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 246,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-09-11"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 247,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-09-18"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 248,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-09-25"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 249,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-10-02"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 250,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-10-09"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 251,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-10-16"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 252,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-10-23"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 253,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-10-30"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 254,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-11-06"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 255,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-11-13"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 256,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-11-20"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 257,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-11-27"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 258,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-12-04"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 259,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-12-11"
+        }
+    },
+    {
+        "model": "batches.batch",
+        "pk": 260,
+        "fields": {
+            "batch_manager": 1,
+            "added_to_inventory_on": "2028-12-18"
+        }
+    }
+]

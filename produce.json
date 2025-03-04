@@ -1,0 +1,13 @@
+[
+    {
+        "model": "produce.produce",
+        "pk": 1,
+        "fields": {
+            "name": "Garlic",
+            "demand": "high",
+            "type": "vegetable",
+            "check_frequency": "2 / week",
+            "image": null
+        }
+    }
+]

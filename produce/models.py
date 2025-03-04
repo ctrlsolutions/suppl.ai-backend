@@ -29,4 +29,4 @@ class Produce(models.Model):
     def is_low_on_supply(self):
         initial_stock = BatchProduce.objects.filter(produce=self).aggregate(sum=Sum('initial_stock'))['sum']
         average_demand = initial_stock / BatchProduce.objects.filter(produce=self).count()
-        return self.left_in_stock() < average_demand / 3
+        return self.left_in_stock() < average_demand / 5
