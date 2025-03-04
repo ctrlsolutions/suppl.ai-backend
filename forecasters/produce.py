@@ -1,6 +1,7 @@
 from prophet import Prophet
 import pandas as pd
 from batches.models import BatchProduce
+from produce.models import Produce
 from django.db.models import F
 
 def produce_use_forecaster(current_produce, periods, freq):
@@ -30,3 +31,10 @@ def produce_use_forecaster(current_produce, periods, freq):
     forecast_json = predictions.set_index('ds').to_dict()['yhat']
 
     return forecast_json
+
+
+def do_predictions():
+    produces = Produce.objects.all()
+
+    for produce in produces:
+        print(produce_use_forecaster(produce, 3, 'W'))
