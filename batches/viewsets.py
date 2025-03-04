@@ -28,7 +28,6 @@ class DashboardViewSet(viewsets.ModelViewSet):
     def wasted_stock(self, request):
         totalwasteditems = BatchProduce.objects.filter(is_spoiled=True).aggregate(Sum("left_in_stock"))["left_in_stock__sum"] or 0
         print(totalwasteditems)
-        print("oten")
         return Response({"wasted": totalwasteditems})
     
     @action(detail=False, methods=['get'], permission_classes=[AllowAny])
