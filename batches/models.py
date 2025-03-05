@@ -1,7 +1,6 @@
 from django.db import models
 from produce.models import Produce
 
-
 class Batch(models.Model):
     batch_id = models.AutoField(primary_key=True)
     batch_manager = models.ForeignKey("accounts.ManagerUser", on_delete=models.CASCADE, related_name="manager_assigned_to_batch")
@@ -45,6 +44,5 @@ class HealthCheck(models.Model):
         ("unknown", "Unknown")
     ])
     checked_on = models.DateField(auto_now_add=True)
-
     def __str__(self):
         return f"Health Check - {self.batch_produce.produce.name} (Batch {self.batch_produce.batch.batch_id})"
