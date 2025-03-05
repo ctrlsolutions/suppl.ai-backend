@@ -1,4 +1,6 @@
 from django.db import models
+from batches.models import BatchProduce
+from django.db.models import Sum
 
 class Produce(models.Model):
     name = models.CharField(max_length=255)  # Item Name
@@ -20,3 +22,11 @@ class Produce(models.Model):
 
     def __str__(self):
         return f"{self.name} ({self.type})"
+
+    def left_in_stock(self):
+        return BatchProduce.objects.filter(produce=self).aggregate(sum=Sum('left_in_stock'))['sum']
+    
+    def is_low_on_supply(self):
+        initial_stock = BatchProduce.objects.filter(produce=self).aggregate(sum=Sum('initial_stock'))['sum']
+        average_demand = initial_stock / BatchProduce.objects.filter(produce=self).count()
+        return self.left_in_stock() < average_demand / 5
