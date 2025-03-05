@@ -1,5 +1,7 @@
 from django.db import models
-from produce.models import Produce
+# from produce.models import Produce
+
+from django.apps import apps
 
 class Batch(models.Model):
     batch_id = models.AutoField(primary_key=True)
